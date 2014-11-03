@@ -8,4 +8,3 @@ def counting_rabbit_pairs(months, step=1):
 
 if __name__ == "__main__":
     print counting_rabbit_pairs(29, 3)
-
